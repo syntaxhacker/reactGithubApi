@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/reactGithubApi/static/js/main.1fa3d95c.chunk.js",
+    "main.js.map": "/reactGithubApi/static/js/main.1fa3d95c.chunk.js.map",
+    "runtime-main.js": "/reactGithubApi/static/js/runtime-main.2177ed8f.js",
+    "runtime-main.js.map": "/reactGithubApi/static/js/runtime-main.2177ed8f.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/reactGithubApi/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.594e353a.chunk.js": "/reactGithubApi/static/js/2.594e353a.chunk.js",
+    "static/js/2.594e353a.chunk.js.map": "/reactGithubApi/static/js/2.594e353a.chunk.js.map",
+    "index.html": "/reactGithubApi/index.html",
+    "precache-manifest.336ef61cf15c020c03dfecb1e451e252.js": "/reactGithubApi/precache-manifest.336ef61cf15c020c03dfecb1e451e252.js",
+    "service-worker.js": "/reactGithubApi/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/reactGithubApi/static/css/2.47e06e2e.chunk.css.map",
+    "static/js/2.594e353a.chunk.js.LICENSE.txt": "/reactGithubApi/static/js/2.594e353a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2177ed8f.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.594e353a.chunk.js",
+    "static/js/main.1fa3d95c.chunk.js"
+  ]
+}
